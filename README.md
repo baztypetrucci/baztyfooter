@@ -56,3 +56,14 @@ $.baztyFooter();
         </td>
     </tr>
 </table>
+
+
+### Examples
+
+<pre lang="javascript"><code>
+$.baztyFooter({
+    header:'.titulo-gigante',
+    content:'#contenidosInternos',
+    delta:100
+});
+</code></pre>
