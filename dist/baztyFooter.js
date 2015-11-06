@@ -4,7 +4,8 @@
       header: '.header',
       content: '.content',
       footer: '.footer',
-      spacer: '.spaceFooter'
+      spacer: '.spaceFooter',
+      delta: 0
     }, options);
 
     if (bfSettings.spacer.length > 0) {
@@ -17,9 +18,13 @@
         var ac = jQuery(bfSettings.content).outerHeight();
         var fs = jQuery(bfSettings.spacer).outerHeight();
         var totalH = ac + ah + af;
-        console.log('ac :'+ac+', ah: '+ah+', af: '+af);
+        //console.log('ac :'+ac+', ah: '+ah+', af: '+af);
         if (totalH < aw) {
-          var nuevoAlto = aw - totalH;
+          if(bfSettings.delta != 0){
+              var nuevoAlto = aw - totalH - bfSettings.delta;
+          }else{
+              var nuevoAlto = aw - totalH;
+          }
           jQuery(bfSettings.spacer).height(nuevoAlto);
         }
       }

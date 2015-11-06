@@ -47,4 +47,12 @@ $.baztyFooter();
             Indicas la clase o id para el div que estirará la pagina para que el footer llegué abajo
         </td>
     </tr>
+    <tr>
+        <td>
+            delta
+        </td>
+        <td>
+            Indicas el nivel de delta en "int" para la medida, en caso de que te sobre o te falte espacio para el footer
+        </td>
+    </tr>
 </table>
