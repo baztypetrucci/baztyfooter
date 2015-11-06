@@ -1,0 +1,33 @@
+{
+  "name": "baztyfooter",
+  "version": "1.0.0",
+  "description": "Plugin de jQuery para poder tener Footers siempre pegados al borde inferior de la pagina",
+  "main": "baztyFooter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baztypetrucci/baztyfooter.git"
+  },
+  "keywords": [
+    "Footer",
+    "stick",
+    "push",
+    "jquery"
+  ],
+  "author": "Bastián Hidalgo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baztypetrucci/baztyfooter/issues"
+  },
+  "homepage": "https://github.com/baztypetrucci/baztyfooter#readme",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.4.2"
+  },
+  "devDependencies": {
+    "gulp-uglify": "^1.4.2"
+  }
+}
