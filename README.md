@@ -58,7 +58,7 @@ $.baztyFooter();
 </table>
 
 
-### Examples
+### Ejemplo
 
 <pre lang="javascript"><code>
 $.baztyFooter({
