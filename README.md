@@ -25,7 +25,7 @@ $.baztyFooter();
         </td>
         <td>
             <p>Indicas la clase o id para la cabecera de la pagina</p>
-			<p>*Indicates the class or id for the header of the page.*</p>
+			<p style="font-style:italic;">Indicates the class or id for the header of the page.</p>
         </td>
     </tr>
     <tr>
@@ -34,7 +34,7 @@ $.baztyFooter();
         </td>
         <td>
             <p>Indicas la clase o id para el contenido principal que envuelvo todo el interior de la pagina</p>
-			<p>*Indicates the class or id for the principal content that wraps all the inside of the page*</p>
+			<p style="font-style:italic;">Indicates the class or id for the principal content that wraps all the inside of the page</p>
 
         </td>
     </tr>
@@ -44,7 +44,7 @@ $.baztyFooter();
         </td>
         <td>
             <p>Indicas la clase o id para el footer de la pagina</p>
-			<p>*Indicates the class or id for the footer of the page.*</p>
+			<p style="font-style:italic;">Indicates the class or id for the footer of the page.</p>
         </td>
     </tr>
     <tr>
@@ -53,7 +53,7 @@ $.baztyFooter();
         </td>
         <td>
             <p>Indicas la clase o id para el div que estirará la pagina para que el footer llegué abajo</p>
-			<p>*Indicates the class or id for the Div that will stretch the page until the footer stays in the bottom.*</p>
+			<p style="font-style:italic;">Indicates the class or id for the Div that will stretch the page until the footer stays in the bottom.</p>
         </td>
     </tr>
     <tr>
@@ -62,7 +62,7 @@ $.baztyFooter();
         </td>
         <td>
             <p>Indicas el nivel de delta en "int" para la medida, en caso de que te sobre o te falte espacio para el footer</p>
-			<p>*Indicate the level of delta on "int" for the size, use it in the case that you need to remove or add space for the footer.*</p>
+			<p style="font-style:italic;">Indicate the level of delta on "int" for the size, use it in the case that you need to remove or add space for the footer.</p>
         </td>
     </tr>
 </table>
