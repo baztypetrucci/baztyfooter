@@ -17,14 +17,14 @@ $.baztyFooter();
 
 
 ### Opciones / Options
-
+<pre lang="html"><code>
 <table>
 	<tr>
 		<td>
 			header
 		</td>
 		<td>
-			<p>Indicas la clase o id para la cabecera de la pagina</em></p>
+			<p>Indicas la clase o id para la cabecera de la pagina</p>
 			<p><em>Indicates the class or id for the header of the page.</em></p>
 		</td>
 	</tr>
@@ -66,7 +66,7 @@ $.baztyFooter();
 		</td>
 	</tr>
 </table>
-
+</code></pre>
 
 ### Ejemplo / Example
 
