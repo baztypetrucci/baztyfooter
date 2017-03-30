@@ -23,7 +23,7 @@ $.baztyFooter();
 | header             | Indicas la clase o id para la cabecera de la pagina, *Indicates the class or id for the header of the page.*                                                                                                                               |
 | content            | Indicas la clase o id para el contenido principal que envuelvo todo el interior de la pagina, *Indicates the class or id for the principal content that wraps all the inside of the page.*                                                  |
 | footer             | Indicas la clase o id para el footer de la pagina, *Indicates the class or id for the footer of the page.*                                                                                                                                 |
-| spacer             | Indicas la clase o id para el div que estirará la pagina para que el footer llegué abajo, *Indicates the class or id for the Div that will stretch the page until the footer stays in the bottom.*                                         |
+| spacer             | Indicas la clase o id para el div que estirará la pagina para que el footer llegué abajo, por defecto es ".spaceFooter", *Indicates the class or id for the Div that will stretch the page until the footer stays in the bottom, by default is ".spaceFooter".*                                         |
 | delta              | Indicas el nivel de delta en "int" para la medida, en caso de que te sobre o te falte espacio para el footer, *Indicate the level of delta on "int" for the size, use it in the case that you need to remove or add space for the footer.* |
 
 ### Ejemplo / Example
