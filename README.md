@@ -18,56 +18,13 @@ $.baztyFooter();
 
 ### Opciones / Options
 
-<table>
-	<tr>
-		<td>
-			header
-		</td>
-		<td>
-
-			Indicas la clase o id para la cabecera de la pagina
-			<em>Indicates the class or id for the header of the page.</em>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			content
-		</td>
-		<td>
-
-			Indicas la clase o id para el contenido principal que envuelvo todo el interior de la pagina
-			<em>Indicates the class or id for the principal content that wraps all the inside of the page</em>
-
-		</td>
-	</tr>
-	<tr>
-		<td>
-			footer
-		</td>
-		<td>
-			Indicas la clase o id para el footer de la pagina
-			<em>Indicates the class or id for the footer of the page.</em>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			spacer
-		</td>
-		<td>
-			Indicas la clase o id para el div que estirará la pagina para que el footer llegué abajo
-			<em>Indicates the class or id for the Div that will stretch the page until the footer stays in the bottom.</em>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			delta
-		</td>
-		<td>
-			Indicas el nivel de delta en "int" para la medida, en caso de que te sobre o te falte espacio para el footer
-			<em>Indicate the level of delta on "int" for the size, use it in the case that you need to remove or add space for the footer.</em>
-		</td>
-	</tr>
-</table>
+| Opciones / Options | Descripción / Description                                                                                                                                                                                                                |
+|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| header             | Indicas la clase o id para la cabecera de la pagina, Indicates the class or id for the header of the page.                                                                                                                               |
+| content            | Indicas la clase o id para el contenido principal que envuelvo todo el interior de la pagina, Indicates the class or id for the principal content that wraps all the inside of the page                                                  |
+| footer             | Indicas la clase o id para el footer de la pagina, Indicates the class or id for the footer of the page.                                                                                                                                 |
+| spacer             | Indicas la clase o id para el div que estirará la pagina para que el footer llegué abajo, Indicates the class or id for the Div that will stretch the page until the footer stays in the bottom.                                         |
+| delta              | Indicas el nivel de delta en "int" para la medida, en caso de que te sobre o te falte espacio para el footer, Indicate the level of delta on "int" for the size, use it in the case that you need to remove or add space for the footer. |
 
 ### Ejemplo / Example
 
