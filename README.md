@@ -33,7 +33,7 @@ $.baztyFooter();
 			content
 		</td>
 		<td>
-			<p>Indicas la clase o id para el contenido principal que envuelvo todo el interior de la pagina</em></p>
+			<p>Indicas la clase o id para el contenido principal que envuelvo todo el interior de la pagina</p>
 			<p><em>Indicates the class or id for the principal content that wraps all the inside of the page</em></p>
 
 		</td>
@@ -43,7 +43,7 @@ $.baztyFooter();
 			footer
 		</td>
 		<td>
-			<p>Indicas la clase o id para el footer de la pagina</em></p>
+			<p>Indicas la clase o id para el footer de la pagina</p>
 			<p><em>Indicates the class or id for the footer of the page.</em></p>
 		</td>
 	</tr>
@@ -52,7 +52,7 @@ $.baztyFooter();
 			spacer
 		</td>
 		<td>
-			<p>Indicas la clase o id para el div que estirará la pagina para que el footer llegué abajo</em></p>
+			<p>Indicas la clase o id para el div que estirará la pagina para que el footer llegué abajo</p>
 			<p><em>Indicates the class or id for the Div that will stretch the page until the footer stays in the bottom.</em></p>
 		</td>
 	</tr>
@@ -61,7 +61,7 @@ $.baztyFooter();
 			delta
 		</td>
 		<td>
-			<p>Indicas el nivel de delta en "int" para la medida, en caso de que te sobre o te falte espacio para el footer</em></p>
+			<p>Indicas el nivel de delta en "int" para la medida, en caso de que te sobre o te falte espacio para el footer</p>
 			<p><em>Indicate the level of delta on "int" for the size, use it in the case that you need to remove or add space for the footer.</em></p>
 		</td>
 	</tr>
