@@ -24,6 +24,7 @@ $.baztyFooter();
 			header
 		</td>
 		<td>
+
 			<p>Indicas la clase o id para la cabecera de la pagina</p>
 			<p><em>Indicates the class or id for the header of the page.</em></p>
 		</td>
@@ -33,6 +34,7 @@ $.baztyFooter();
 			content
 		</td>
 		<td>
+
 			<p>Indicas la clase o id para el contenido principal que envuelvo todo el interior de la pagina</p>
 			<p><em>Indicates the class or id for the principal content that wraps all the inside of the page</em></p>
 
@@ -72,8 +74,8 @@ $.baztyFooter();
 
 <pre lang="javascript"><code>
 $.baztyFooter({
-    header:'.titulo-gigante',
-    content:'#contenidosInternos',
-    delta:100
-});
-</code></pre>
+	header:'.titulo-gigante',
+	content:'#contenidosInternos',
+	delta:100
+	});
+	</code></pre>
