@@ -17,7 +17,7 @@ $.baztyFooter();
 
 
 ### Opciones / Options
-<code>
+
 <table>
 	<tr>
 		<td>
@@ -68,7 +68,6 @@ $.baztyFooter();
 		</td>
 	</tr>
 </table>
-</pre>
 
 ### Ejemplo / Example
 
